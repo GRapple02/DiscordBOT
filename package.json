@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "디스코드 게임 정보 연동봇 개발",
+  "main": "app.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GRapple02/DiscordBOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GRapple02/DiscordBOT/issues"
+  },
+  "homepage": "https://github.com/GRapple02/DiscordBOT#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
