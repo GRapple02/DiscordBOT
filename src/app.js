@@ -12,7 +12,12 @@ client.on('message', msg => {
         content = content.slice(1);
 
         if (content === 'lol')
-            msg.reply("롤")
+            msg.reply("롤");
+        else if(content === 'bg')
+            msg.reply("배그")
+        else if (content === 'r6') {
+            msg.reply('레식')
+        }
     }
 });
 
