@@ -1,4 +1,4 @@
 {
     "domain": "https://kr.api.riotgames.com",
-    "riotKey": ""
+    "riotKey": "${RIOT API KEY}"
 }

@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/GRapple02/DiscordBOT#readme",
   "dependencies": {
-    "discord.js": "^12.5.1",
-    "request": "^2.88.2"
+    "bent": "^7.3.12",
+    "discord.js": "^12.5.1"
   }
 }
